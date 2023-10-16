@@ -1,8 +1,5 @@
-import React from "react";
-
-function PostForm() {
+export function PostForm() {
     return (
         <div>PostForm</div>
     )
 }
-export default PostForm

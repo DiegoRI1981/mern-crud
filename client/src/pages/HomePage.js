@@ -1,8 +1,5 @@
-import React from "react";
-
-function HomaPage() {
+export function HomePage() {
     return (
         <div>Homa Page</div>
     )
 }
-export default HomaPage;
